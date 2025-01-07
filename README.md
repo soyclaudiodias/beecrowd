@@ -5,7 +5,7 @@
 
 | Categoria | Resolvidos | Problemas |
 | -- | -- | -- |
-| [Iniciante](https://github.com/soyclaudiodias/Beecrowd/tree/main/Iniciante) | 72 | 334 |
+| [Iniciante](https://github.com/soyclaudiodias/Beecrowd/tree/main/Iniciante) | 74 | 334 |
 | Ad-Hoc | 0 | 849 |
 | Strings | 0 | 150 |
 | Estruturas e Bibliotecas | 0 | 180 |
@@ -15,7 +15,7 @@
 | Geometria Computacional | 0 | 83 |
 | SQL | 0 | 50 |
 | | | |
-| Total | 72 | 2407 |
+| Total | 74 | 2407 |
 
 <br>
 

@@ -5,8 +5,8 @@
 
 | Categoria | Resolvidos | Problemas |
 | -- | -- | -- |
-| [Iniciante](https://github.com/soyclaudiodias/Beecrowd/tree/main/Iniciante) | 82 | 334 |
-| Ad-Hoc | 0 | 849 |
+| [Iniciante](https://github.com/soyclaudiodias/Beecrowd/tree/main/Iniciante) | 84 | 334 |
+| Ad-Hoc | 0 | 850 |
 | Strings | 0 | 150 |
 | Estruturas e Bibliotecas | 0 | 180 |
 | Matemática | 0 | 269 |
